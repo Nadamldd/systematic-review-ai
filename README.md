@@ -1,1 +1,1 @@
-# systematic-review-ai
+Automatizing Part of Literature Search in Systematic Reviews
